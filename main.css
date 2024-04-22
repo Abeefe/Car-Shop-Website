@@ -75,7 +75,7 @@ nav ul li a:hover {
 #banner {
   min-height: 90vh;
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(/images/background-banner.jpg);
+    url(images/background-banner.jpg);
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
@@ -191,7 +191,7 @@ nav ul li a:hover {
 #sales {
   min-height: 100vh;
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(/images/services.jpg);
+    url(images/services.jpg);
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
@@ -391,7 +391,7 @@ nav ul li a:hover {
 
 #filler-contact {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(/images/filler.jpg);
+    url(images/filler.jpg);
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
